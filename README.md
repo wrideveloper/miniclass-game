@@ -8,10 +8,10 @@ Roadmap untuk miniclass game WRI
     - [Penjelasan Unity](materi/topik2/penjelasan-unity.md)
     - [Pengenalan Interface Unity](materi/topik2/pengenalan-interface-unity.md)
 3.  **Pengenalan Bahasa Pemrograman C#**
-    - Pengenalan C#
-    - Syntax Dasar C#
-    - OOP dengan C#
-    - Implementasi C# Pada Unity
+    - [Pengenalan C#](materi/topik3/pengenalan-cSharp.md)
+    - [Syntax Dasar C#](materi/topik3/syntax-dasar-cSharp.md)
+    - [OOP dengan C#](materi/topik3/oop-dengan-cSharp.md)
+    - [Implementasi C# Pada Unity](materi/topik3/implementasi-cSharp-pada-unity.md)
 4.  **Persiapan Membuat Game 2D**
     - Translate dan Rotate
     - Input Axis
