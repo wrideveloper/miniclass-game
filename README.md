@@ -14,9 +14,12 @@ Roadmap untuk miniclass game WRI
     - [Implementasi C# Pada Unity](materi/topik3/implementasi-cSharp-pada-unity.md)
 4.  **Persiapan Membuat Game 2D**
     - Translate dan Rotate
-    - Input Axis
+    - Delta Time
+    - Input KeyCode dan Axis
+    - Get Component
     - Rigidbody 2D
     - Collider 2D
+    - Physic Material 2D
     - Animation
     - User Interface
 5.  **Membuat Game Pukul Bola**
