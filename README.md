@@ -13,7 +13,7 @@ Roadmap untuk miniclass game WRI
     - [OOP dengan C#](materi/topik3/oop-dengan-cSharp.md)
     - [Implementasi C# Pada Unity](materi/topik3/implementasi-cSharp-pada-unity.md)
 4.  **Persiapan Membuat Game 2D**
-    - Transform
+    - [Transform](materi/topik4/transform.md)
     - Delta Time
     - Input KeyCode dan Axis
     - Get Component
