@@ -2,6 +2,8 @@
 
 Roadmap untuk miniclass game WRI
 
+[klik disini](materi/topik3/pengenalan-cSharp.md)
+
 1.  **Pengenalan Game**
     - [Genre Game](materi/topik1/genre-game.md)
 2.  **Pengenalan Unity**
@@ -15,8 +17,8 @@ Roadmap untuk miniclass game WRI
 4.  **Persiapan Membuat Game 2D**
     - [Transform](materi/topik4/transform.md)
     - [Delta Time](materi/topik4/delta-time.md)
-    - Input KeyCode dan Axis
-    - Get Component
+    - Input
+    - GetComponent
     - Rigidbody 2D
     - Collider 2D
     - Physic Material 2D
