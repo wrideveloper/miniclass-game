@@ -17,9 +17,9 @@ Roadmap untuk miniclass game WRI
 4.  **Persiapan Membuat Game 2D**
     - [Transform](materi/topik4/transform.md)
     - [Delta Time](materi/topik4/delta-time.md)
-    - Input
-    - GetComponent
-    - Rigidbody 2D
+    - [Input](materi/topik4/input.md)
+    - [GetComponent](materi/topik4/getcomponent.md)
+    - [Rigidbody 2D](materi/topik4/rigidbody2d.md)
     - Collider 2D
     - Physic Material 2D
     - Animation
