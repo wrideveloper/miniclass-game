@@ -21,8 +21,8 @@ Roadmap untuk miniclass game WRI
     - [GetComponent](materi/topik4/getcomponent.md)
     - [Rigidbody 2D](materi/topik4/rigidbody2d.md)
     - [Collider 2D](materi/topik4/collider2d.md)
-    - Physic Material 2D
-    - Animation
+    - [Physic Material 2D](materi/topik4/physic-material2d.md)
+    - [Animation](materi/topik4/animation.md)
     - User Interface
 5.  **Membuat Game Pukul Bola**
 6.  **Membuat Game 2D Platformer**
