@@ -2,10 +2,10 @@
 
 Roadmap untuk miniclass game WRI
 
-[klik disini](materi/topik3/pengenalan-cSharp.md)
-
 1.  **Pengenalan Game**
+    - [Pengertian Game](materi/topik1/pengertian-game.md)
     - [Genre Game](materi/topik1/genre-game.md)
+    - [Tahapan Pembuatan Game](materi/topik1/tahapan-pembuatan-game.md)
 2.  **Pengenalan Unity**
     - [Penjelasan Unity](materi/topik2/penjelasan-unity.md)
     - [Pengenalan Interface Unity](materi/topik2/pengenalan-interface-unity.md)
