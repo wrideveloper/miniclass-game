@@ -27,14 +27,13 @@ Roadmap untuk miniclass game WRI
     - [Physic Material 2D](materi/topik6/physic-material2d.md)
     - Lightning
     - Particle System
+    - Audio
 7.  **User Interface**
     - [User Interface](materi/topik7/user-interface.md)
 8.  **Persiapan Membuat Game 3D**
     - 3D Environtment
     - Collider 3D
     - Rigidbody 3D
-    - Lightning
-    - Audio
 9.  **Membuat Game FPS**
 10. **Pengenalan Game Networking**
 11. **Membuat Game Multiplayer**
