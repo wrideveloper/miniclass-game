@@ -23,6 +23,7 @@ Roadmap untuk miniclass game WRI
     - [Collider 2D](materi/topik4/collider2d.md)
 5.  **Membuat Game 2D Platformer**
 6.  **Animasi dan Efek**
+    - Camera
     - [Animation](materi/topik6/animation.md)
     - [Physic Material 2D](materi/topik6/physic-material2d.md)
     - Lightning
@@ -30,10 +31,11 @@ Roadmap untuk miniclass game WRI
     - Audio
 7.  **User Interface**
     - [User Interface](materi/topik7/user-interface.md)
-8.  **Persiapan Membuat Game 3D**
-    - 3D Environtment
-    - Collider 3D
-    - Rigidbody 3D
-9.  **Membuat Game FPS**
-10. **Pengenalan Game Networking**
-11. **Membuat Game Multiplayer**
+8.  **Penyimpanan Eksternal**
+    - Binary File
+    - SQLite
+9.  **Game Multiplayer**
+    - Konsep Game Multiplayer
+    - Membuat Game Multiplayer
+10. **Persiapan Membuat Game 3D**
+11. **Membuat Game FPS**
