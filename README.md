@@ -25,7 +25,7 @@ Roadmap untuk miniclass game WRI
     - [Collider 2D](materi/topik4/collider2d.md)
 5.  **Membuat Game 2D Platformer**
 6.  **Animasi dan Efek**
-    - Camera
+    - [Camera](materi/topik6/camera.md)
     - [Animation](materi/topik6/animation.md)
     - [Physic Material 2D](materi/topik6/physic-material2d.md)
     - Lightning
