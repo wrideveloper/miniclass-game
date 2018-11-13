@@ -6,6 +6,7 @@ Roadmap untuk miniclass game WRI
     - [Pengertian Game](materi/topik1/pengertian-game.md)
     - [Genre Game](materi/topik1/genre-game.md)
     - [Tahapan Pembuatan Game](materi/topik1/tahapan-pembuatan-game.md)
+    - [Role dalam Pembuatan Game](materi/topik1/job-role.md)
 2.  **Pengenalan Unity**
     - [Penjelasan Unity](materi/topik2/penjelasan-unity.md)
     - [Pengenalan Interface Unity](materi/topik2/pengenalan-interface-unity.md)
@@ -20,6 +21,7 @@ Roadmap untuk miniclass game WRI
     - [Input](materi/topik4/input.md)
     - [GetComponent](materi/topik4/getcomponent.md)
     - [Rigidbody 2D](materi/topik4/rigidbody2d.md)
+    - [Velocity](materi/topik4/velocity.md)
     - [Collider 2D](materi/topik4/collider2d.md)
 5.  **Membuat Game 2D Platformer**
 6.  **Animasi dan Efek**
