@@ -24,7 +24,7 @@ Roadmap untuk miniclass game WRI
     - [Velocity](materi/topik4/velocity.md)
     - [Add Force](materi/topik4/addForce.md)
     - [Collider 2D](materi/topik4/collider2d.md)
-5.  **Membuat Game 2D Platformer**
+5.  [**Membuat Game 2D Platformer**](https://github.com/wrideveloper/2d-game-example)
 6.  **Animasi dan Efek**
     - [Camera](materi/topik6/camera.md)
     - [Animation](materi/topik6/animation.md)
