@@ -24,10 +24,13 @@ Roadmap untuk miniclass game WRI
     - [Velocity](materi/topik4/velocity.md)
     - [Add Force](materi/topik4/addForce.md)
     - [Collider 2D](materi/topik4/collider2d.md)
-5.  [**Membuat Game 2D Platformer**](https://github.com/wrideveloper/2d-game-example)
-6.  **Animasi dan Efek**
+    - [Animation](materi/topik4/animation.md)
+5.  **Membuat Game Casual 2D**
+    - [2D Ufo Game](https://unity3d.com/learn/tutorials/s/2d-ufo-tutorial)
+    - [Flappy Bird](https://unity3d.com/learn/tutorials/topics/2d-game-creation/project-goals?playlist=17093)
+    - [Space Shooter Game](http://www.lessmilk.com/tutorial/space-shooter-unity-1)
+6.  **Efek**
     - [Camera](materi/topik6/camera.md)
-    - [Animation](materi/topik6/animation.md)
     - [Physic Material 2D](materi/topik6/physic-material2d.md)
     - Lightning
     - Particle System
