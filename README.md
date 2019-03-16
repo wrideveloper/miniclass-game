@@ -30,7 +30,8 @@ Roadmap untuk miniclass game WRI
     - Inventory System
     - Global Variable
     - Spawning Object
-    - Scrolling Background
+    - Infinite Scrolling
+    - Paralax Scrolling
 6.  **Membuat Game Casual 2D**
     - [2D Ufo Game](https://unity3d.com/learn/tutorials/s/2d-ufo-tutorial)
     - [Flappy Bird](https://unity3d.com/learn/tutorials/topics/2d-game-creation/project-goals?playlist=17093)
