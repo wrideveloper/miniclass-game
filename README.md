@@ -29,6 +29,8 @@ Roadmap untuk miniclass game WRI
 5.  **Teknik Pembuatan Game**
     - Inventory System
     - Global Variable
+    - Jump Through Platform
+    - Moving Platform
     - Spawning Object
     - Infinite Scrolling
     - Paralax Scrolling
