@@ -28,8 +28,8 @@ Roadmap untuk miniclass game WRI
     - [Animation](materi/topik4/animation.md)
 5.  **Teknik Pembuatan Game**
     - Inventory System
-    - Global Variable
-    - Jump Through Platform
+    - [Global Static Variable](https://unity3d.com/learn/tutorials/topics/scripting/statics)
+    - [Jump Through Platform](https://www.youtube.com/watch?v=acFYSKle6wY)
     - Moving Platform
     - Spawning Object
     - Infinite Scrolling
