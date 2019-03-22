@@ -27,13 +27,13 @@ Roadmap untuk miniclass game WRI
     - [Physic 2D](materi/topik4/physic2d.md)
     - [Animation](materi/topik4/animation.md)
 5.  **Teknik Pembuatan Game**
-    - Inventory System
+    - [Inventory System](https://unity3d.com/learn/tutorials/projects/2d-game-kit/inventory-system)
     - [Global Static Variable](https://unity3d.com/learn/tutorials/topics/scripting/statics)
     - [Jump Through Platform](https://www.youtube.com/watch?v=acFYSKle6wY)
-    - Moving Platform
-    - Spawning Object
-    - Infinite Scrolling
-    - Paralax Scrolling
+    - [Moving Platform](https://www.youtube.com/watch?v=O6wlIqe2lTA)
+    - [Spawning Object](https://www.youtube.com/watch?v=tz2fRF2GnqY)
+    - [Infinite Scrolling](https://www.youtube.com/watch?v=IgZQjGyB9zg)
+    - [Paralax Scrolling](https://www.youtube.com/watch?v=OS3ViXHtrUU)
 6.  **Membuat Game Casual 2D**
     - [2D Ufo Game](https://unity3d.com/learn/tutorials/s/2d-ufo-tutorial)
     - [Flappy Bird](https://unity3d.com/learn/tutorials/topics/2d-game-creation/project-goals?playlist=17093)
@@ -52,5 +52,3 @@ Roadmap untuk miniclass game WRI
 10. **Game Multiplayer**
     - Konsep Game Multiplayer
     - Membuat Game Multiplayer
-11. **Persiapan Membuat Game 3D**
-12. **Membuat Game FPS**
