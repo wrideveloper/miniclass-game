@@ -7,15 +7,13 @@ Roadmap untuk miniclass game WRI
     - :books: Game Design Document
     - :books: Story Board
 2.  **Pengenalan Unity**
+
     - :books: [Penjelasan Unity](materi/pengenalan-unity/penjelasan-unity.md)
     - :books: [Pengenalan Interface Unity](materi/pengenalan-unity/pengenalan-interface-unity.md)
-    - :books: Sprite
-    - :books: Game Object
-    - :books: Game Object Component
-      - Rigid Body 2D
-      - Collider 2D
-      - Physic 2D
-      - Physic Material 2D
+    - :books: [Game Object](materi/pengenalan-unity/game-object.md)
+    - :books: [Game Object Component](materi/pengenalan-unity/game-object-component.md)
+    - :books: [Physic Component](materi/pengenalan-unity/physic2d.md)
+
 3.  **Pengenalan Bahasa Pemrograman C#**
 
     - :books: [Pengenalan C#](materi/pengenalan-c-sharp/pengenalan-cSharp.md)

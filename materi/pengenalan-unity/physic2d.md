@@ -1,6 +1,6 @@
-# Physic 2D
+# Physic Component
 
-Berikut beberapa komponen yang dapat digunakan pada pembuatan game 2D yang berkaitan dengan physic
+Berikut beberapa component yang dapat digunakan pada pembuatan game 2D yang berkaitan dengan physic
 
 ## 1. Hinge Joint 2D
 
