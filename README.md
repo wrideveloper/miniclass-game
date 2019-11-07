@@ -18,7 +18,7 @@ Roadmap untuk miniclass game WRI
 
     - :books: [Pengenalan C#](materi/pengenalan-c-sharp/pengenalan-cSharp.md)
     - :books: [Dasar OOP Pada C#](materi/pengenalan-c-sharp/dasar-oop-cSharp.md)
-    - :books: Getter dan Setter
+    - :books: [Getter dan Setter](materi/pengenalan-c-sharp/getter-dan-setter.md)
     - :books: Object Attribute
 
 4.  **Penerapan C# Pada Unity**

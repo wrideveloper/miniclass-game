@@ -41,7 +41,7 @@ Method merupakan hal yang dapat dilakukan oleh suatu object, misalnya, mobil dap
 
 #### 2.1.1 Membuat Class
 
-Sebelum membuat object, kita perlu membuat class terlebih dahulu, class merupakan suatu template yang dapat digunakan untuk membuat banyak object
+Sebelum membuat object, kita perlu membuat class terlebih dahulu, class merupakan suatu template yang nantinya dapat digunakan untuk membuat banyak object
 
 ```csharp
 // Hero.cs
@@ -59,7 +59,7 @@ namespace AdventureGame
 
 #### 2.1.2 Membuat Object
 
-Untuk membuat object, kita dapat membuat variable baru dengan tipe data class yang tadi sudah kita buat
+Untuk membuat object, kita dapat membuat variable baru menggunakan class `Hero` yang tadi sudah kita buat
 
 ```csharp
 // Program.cs
@@ -83,7 +83,7 @@ namespace AdventureGame
 
 #### 2.2.1 Menambahkan Attribute
 
-Untuk membuat attribute pada suatu objek, kita perlu menambahkannya pada class
+Untuk membuat attribute pada suatu objek, kita perlu menambahkan variable baru pada class `Hero`
 
 ```csharp
 // Hero.cs
@@ -103,6 +103,8 @@ namespace AdventureGame
 ```
 
 #### 2.2.2 Mengisi Nilai Attribute
+
+Setelah membuat attribute pada class `Hero`, kita dapat mengisi nilainya pada objek `hero1` yang sudah kita buat
 
 ```csharp
 // Program.cs
@@ -159,6 +161,8 @@ namespace AdventureGame
 ```
 
 #### 2.3.2 Menggunakan Method
+
+Setelah menambahkan method pada class `Hero`, kita dapat memanggilnya melalui objek `hero1` yang sudah dibuat
 
 ```csharp
 // Program.cs
