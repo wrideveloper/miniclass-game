@@ -17,12 +17,9 @@ Roadmap untuk miniclass game WRI
 3.  **Pengenalan Bahasa Pemrograman C#**
 
     - :books: [Pengenalan C#](materi/pengenalan-c-sharp/pengenalan-cSharp.md)
-    - :books: [Syntax Dasar C#](materi/pengenalan-c-sharp/syntax-dasar-cSharp.md)
-    - :books: [OOP dengan C#](materi/pengenalan-c-sharp/oop-dengan-cSharp.md)
-      - Class dan Object
-      - Attribute dan Method
-      - Getter dan Setter
-      - Chaining Attribute
+    - :books: [Dasar OOP Pada C#](materi/pengenalan-c-sharp/dasar-oop-cSharp.md)
+    - :books: Getter dan Setter
+    - :books: Object Attribute
 
 4.  **Penerapan C# Pada Unity**
 
