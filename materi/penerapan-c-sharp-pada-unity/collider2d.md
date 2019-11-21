@@ -1,18 +1,8 @@
-# Collider 2D
-
-Ada kalanya ketika kita membuat game kita harus melakukan sesuatu ketika ada game object yang saling bertabrakan, hal ini dapat kita terapkan dengan menggunakan `Collider 2D`
+# Collider Trigger
 
 ![collider2d](collider2d.png)
 
-## Apa Itu Collider 2D
-
-Secara default apabila ada dua game object 2D yang akan bertabrakan maka kedua game object tersebut akan saling tembus dan tidak akan terjadi tabrakan
-
-Hal ini terjadi karena kita tidak menerapkan `Collider2D` pada kedua game object tersebut, `Collider2D` merupakan component yang menentukan bentuk fisik dari suatu game object 2D agar kedua game object tadi dapat saling bertabrakan
-
-![example](box-collider-2d-example.png)
-
-## Collider Triger
+## 1. Penjelasan Collider Trigger
 
 Ada kalanya kita ingin menjalankan sebuah perintah ketika ada suatu game object yang sedang bertabrakan dengan game object lain, hal ini dapat diterapkan dengan cara menerapkan `Collider Trigger` pada salah satu game object tersebut.
 

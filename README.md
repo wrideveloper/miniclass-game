@@ -27,10 +27,9 @@ Roadmap untuk miniclass game WRI
     - :books: [Delta Time](materi/penerapan-c-sharp-pada-unity/delta-time.md)
     - :books: [Input](materi/penerapan-c-sharp-pada-unity/input.md)
     - :books: [GetComponent](materi/penerapan-c-sharp-pada-unity/getcomponent.md)
-    - :books: [Rigidbody 2D](materi/penerapan-c-sharp-pada-unity/rigidbody2d.md)
     - :books: [Velocity](materi/penerapan-c-sharp-pada-unity/velocity.md)
     - :books: [Add Force](materi/penerapan-c-sharp-pada-unity/addForce.md)
-    - :books: [Collider 2D](materi/penerapan-c-sharp-pada-unity/collider2d.md)
+    - :books: [Collider Trigger](materi/penerapan-c-sharp-pada-unity/collider2d.md)
     - :computer: Membuat Game 2D Sederhana
 
 5.  **Teknik Pembuatan Game**

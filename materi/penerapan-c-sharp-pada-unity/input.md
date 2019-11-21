@@ -1,36 +1,20 @@
 # Input
 
-Kali ini kita akan belajar tentang cara menghandle input dengan menggunakan `Input.GetKey`, `Input.GetButton`, dan `Input.GetAxis`
+<img src="input.png" width="300">
 
-![input](input.png)
+## 1. Input.GetKey
 
-## Input.GetKey
+Dengan menggunakan `Input.GetKey` kita bisa menghandle input secara langsung berdasarkan tombol pada keyboard atau mouse yang ditekan oleh user
 
-Yang pertama adalah `Input.GetKey`, dengan menggunakan `Input.GetKey` kita bisa menghandle input secara langsung berdasarkan tombol pada keyboard atau mouse yang ditekan oleh user
-
-Misalnya :
-
-```
+```csharp
 if (Input.GetKey(KeyCode.Space)) {
-  Jump()
+  // lakukan sesuatu saat tombol space ditekan
 }
 ```
 
-Pada script diatas kita mendeteksi apakah tombol space (spasi) ditekan atau tidak, apabila ditekan kita akan menjalankan method `Jump()` yang berisi script untuk melakukan aksi lompat, kita bisa mengakses nama dari tombol dengan menggunakan `KeyCode.Space` (untuk spasi), `KeyCode.UpArrow` (untuk arah atas), `KeyCode.A` (untuk tombol A) dan masih banyak lagi
+## 2. Input.GetButton
 
-**Untuk lebih jelasnya bisa mengunjungi referensi berikut :**
-
-**Dokumentasi GetKey -** https://docs.unity3d.com/ScriptReference/Input.GetKey.html
-
-**Dokumentasi KeyCode -**
-https://docs.unity3d.com/ScriptReference/KeyCode.html
-
-**Tutorial -**
-https://unity3d.com/learn/tutorials/topics/scripting/getbutton-and-getkey
-
-## Input.GetButton
-
-Dengan menggunakan `Input.GetButton` kita bisa memberikan label kepada beberapa tombol, sehingga kita bisa menghandle banyak button dalam satu kondisi berdasarkan labelnya
+Dengan menggunakan `Input.GetButton` kita bisa memberikan label pada beberapa tombol, sehingga kita bisa menghandle banyak button dalam satu kondisi berdasarkan labelnya
 
 misalnya kita memberi label `Jump` untuk tombol spasi dan up pada keyboard, sehingga :
 
@@ -53,7 +37,7 @@ Disitu bisa kita lihat bahwa label Jump memiliki dua tombol, yaitu space dan up,
 **Tutorial -**
 https://unity3d.com/learn/tutorials/topics/scripting/getbutton-and-getkey
 
-## Input.GetAxis
+## 3. Input.GetAxis
 
 `Input.GetAxis` konsepnya mirip dengan `Input.GetButton` yaitu dengan memanggil nama labelnya kita bisa menghandle banyak tombol dengan melalui `Input Manager`, namun perbedaannya adalah `Input.GetAxis` tidak mereturn boolean seperti `Input.GetButton` melainkan nilai antara 1 dan -1
 

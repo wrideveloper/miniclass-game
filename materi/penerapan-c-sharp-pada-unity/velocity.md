@@ -2,22 +2,27 @@
 
 ![Velocity](velocity.jpeg)
 
-## Penjelasan
+## 1. Penjelasan Velocity
 
 **Velocity** merupakan bagian dari Rigidbody yang menentukan kecepatan dan arah gerak suatu objek
+
+## 2. Cara Menentukan Velocity
 
 Velocity bisa ditentukan nilainya dengan cara berikut :
 
 ```cSharp
+// mengambil component rigid body dari game object
 Rigidbody2D myRigidBody = GetComponent<Rigidbody2D> ();
+
+// mengubah velocity dari rigid body
 myRigidBody.velocity = new Vector2 (5, 0);
 ```
 
 dengan menerapkan script diatas pada suatu objek maka objek tersebut akan bergerak ke kanan dengan kecepatan 5 meter perdetik
 
-## Player Control dengan Velocity dan Input Axis
+## 3. Player Control dengan Velocity
 
-Dengan memanfaatkan velocity dan input axis, kita bisa mengontrol suatu game objek
+Dengan memanfaatkan velocity, kita bisa mengontrol suatu game objek
 
 ```cSharp
 public class PlayerMove : MonoBehaviour {
@@ -25,15 +30,17 @@ public class PlayerMove : MonoBehaviour {
 	private Rigidbody2D myRigidBody;
 	public float speed = 10;
 
-	// Use this for initialization
 	void Start () {
+		// mengambil component rigid body dari game object
 		myRigidBody = GetComponent<Rigidbody2D> ();
 	}
 
-	// Update is called once per frame
 	void Update () {
+		// mendapatkan nilai axis
 		float horizontal = Input.GetAxis ("Horizontal");
 		float vertical = Input.GetAxis ("Vertical");
+
+		// mengubah velocity
 		myRigidBody.velocity = new Vector2 (horizontal * speed, vertical * speed);
 	}
 }
