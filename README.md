@@ -31,7 +31,7 @@ Roadmap untuk miniclass game WRI
     - :books: [GetComponent](materi/penerapan-c-sharp-pada-unity/getcomponent.md)
     - :books: [Velocity](materi/penerapan-c-sharp-pada-unity/velocity.md)
     - :books: [Add Force](materi/penerapan-c-sharp-pada-unity/addForce.md)
-    - :books: [Collider Trigger](materi/penerapan-c-sharp-pada-unity/collider2d.md)
+    - :books: [Collider Trigger](materi/penerapan-c-sharp-pada-unity/collider-trigger.md)
     - :computer: Membuat Game 2D Sederhana
 
 5.  **Teknik Pembuatan Game**
