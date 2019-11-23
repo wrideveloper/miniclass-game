@@ -146,9 +146,9 @@ namespace AdventureGame
     public String name;
     public int health;
 
-    // method untuk melakukan healing
-    public void Healing() {
-      this.health += 100;
+    // method untuk terkena damage
+    public void GetDamage() {
+      this.health -= 30;
     }
 
     // method untuk menampilkan informasi hero
@@ -180,8 +180,8 @@ namespace AdventureGame
       hero1.name = "star platinum";
       hero1.health = 100;
 
-      // melakukan healing
-      hero1.Healing();
+      // hero terkena damage
+      hero1.GetDamage();
       // menampilkan informasi hero
       hero1.ShowInfo();
     }
