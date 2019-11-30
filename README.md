@@ -17,6 +17,7 @@ Roadmap untuk miniclass game WRI
 3.  **Pengenalan Bahasa Pemrograman C#**
 
     - :books: [Pengenalan C#](materi/pengenalan-c-sharp/pengenalan-cSharp.md)
+    - :books: [Fungsi](materi/pengenalan-c-sharp/fungsi.md)
     - :books: [Dasar OOP Pada C#](materi/pengenalan-c-sharp/dasar-oop-cSharp.md)
     - :books: [Constructor](materi/pengenalan-c-sharp/constructor.md)
     - :books: [Inheritance](materi/pengenalan-c-sharp/inheritance.md)
