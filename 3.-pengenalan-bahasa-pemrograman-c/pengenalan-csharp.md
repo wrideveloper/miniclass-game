@@ -1,26 +1,26 @@
-# Pengenalan C Sharp
+# Pengenalan C\#
 
-![c#](cSharp.png)
+![c\#](../.gitbook/assets/cSharp.png)
 
 ## 1. Penjelasan C Sharp
 
-**C#** (dibaca c sharp) merupakan bahasa pemrograman berbasis objek (OOP) yang dikembangkan oleh microsoft sebagai bahasa pemrograman utama dalam lingkungan .NET framework, maka dari itu C# membutuhkan .NET framework agar dapat dicompile
+**C\#** \(dibaca c sharp\) merupakan bahasa pemrograman berbasis objek \(OOP\) yang dikembangkan oleh microsoft sebagai bahasa pemrograman utama dalam lingkungan .NET framework, maka dari itu C\# membutuhkan .NET framework agar dapat dicompile
 
 ## 2. Instalasi C Sharp
 
-Kita membutuhkan `.net core sdk` untuk mulai mengembangkan aplikasi berbasis C#, silahkan unduh `.net core sdk` melalui link berikut :
+Kita membutuhkan `.net core sdk` untuk mulai mengembangkan aplikasi berbasis C\#, silahkan unduh `.net core sdk` melalui link berikut :
 
-https://dotnet.microsoft.com/download
+[https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download)
 
 ## 3. Hello World dengan C Sharp
 
 ### 3.1 Membuat Folder Project
 
-Pertama, silahkan buat folder baru, misalnya `HelloCSharp`, folder ini nantinya akan digunakan sebagai tempat project C# kita
+Pertama, silahkan buat folder baru, misalnya `HelloCSharp`, folder ini nantinya akan digunakan sebagai tempat project C\# kita
 
 ### 3.2 Membuat Project C Sharp Baru
 
-Gunakan perintah berikut untuk membuat project C# baru, jangan lupa untuk masuk ke folder yang tadi sudah dibuat terlebih dahulu
+Gunakan perintah berikut untuk membuat project C\# baru, jangan lupa untuk masuk ke folder yang tadi sudah dibuat terlebih dahulu
 
 ```bash
 dotnet new console
@@ -57,3 +57,4 @@ Untuk menjalankan program yang sudah kita buat, kita dapat menggunakan perintah 
 ```bash
 dotnet run
 ```
+

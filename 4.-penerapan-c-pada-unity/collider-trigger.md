@@ -1,6 +1,6 @@
 # Collider Trigger
 
-<img src="collider2d.png" width="250">
+![](../.gitbook/assets/collider2d.png)
 
 ## 1. Penjelasan Collider Trigger
 
@@ -8,7 +8,7 @@ Collider trigger merupakan jenis collider yang digunakan untuk mendeteksi tabrak
 
 ## 2. Cara Menggunakan Collider Trigger
 
-### 2.1 Menerapkan Collider  
+### 2.1 Menerapkan Collider
 
 Terapkan collider kepada kedua game object
 
@@ -20,7 +20,7 @@ Terapkan collider trigger kepada salah satu game object dengan cara mencentang `
 
 Gunakan method berikut pada salah satu game object untuk mendeteksi tabrakan
 
-```cSharp
+```csharp
 using UnityEngine;
 using System.Collections;
 
@@ -42,3 +42,4 @@ public class ExampleClass : MonoBehaviour
     }
 }
 ```
+

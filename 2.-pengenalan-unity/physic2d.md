@@ -22,12 +22,13 @@ Distance joint membuat sebuah game objek menggantung ke game objek yang lain den
 
 ## 4. Area Effector 2D
 
-Area effector dapat memberikan gaya (force) dengan arah yang sudah ditentukan kepada suatu game objek yang memasuki area tertentu
+Area effector dapat memberikan gaya \(force\) dengan arah yang sudah ditentukan kepada suatu game objek yang memasuki area tertentu
 
 [Referensi](https://unity3d.com/learn/tutorials/topics/2d-game-creation/area-effector-2d)
 
 ## 5. Point Effector 2D
 
-Point effector dapat memberikan suatu gaya (force) pada area yang sudah ditentukan, efeknya seperti ledakan bom
+Point effector dapat memberikan suatu gaya \(force\) pada area yang sudah ditentukan, efeknya seperti ledakan bom
 
 [Referensi](https://unity3d.com/learn/tutorials/topics/2d-game-creation/point-effector-2d)
+

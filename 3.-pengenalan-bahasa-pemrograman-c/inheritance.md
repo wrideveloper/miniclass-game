@@ -2,7 +2,7 @@
 
 ## 1. Penjelasan Inheritance
 
-Inheritance atau pewarisan merupakan salah satu konsep pada OOP (Object Oriented Programming) dimana suatu objek dapat menurunkan attribute atau method nya ke objek yang lain.
+Inheritance atau pewarisan merupakan salah satu konsep pada OOP \(Object Oriented Programming\) dimana suatu objek dapat menurunkan attribute atau method nya ke objek yang lain.
 
 ## 2. Cara Membuat Inheritance
 
@@ -87,3 +87,4 @@ namespace AdventureGame
   }
 }
 ```
+

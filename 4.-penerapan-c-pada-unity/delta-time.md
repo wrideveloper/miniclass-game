@@ -1,6 +1,6 @@
 # Delta Time
 
-<img src="delta-time.png" width="200">
+![](../.gitbook/assets/delta-time.png)
 
 ## 1. Penjelasan Delta Time
 
@@ -8,11 +8,11 @@ Secara sederhana delta time merupakan sebuah teknik dalam unity yang berguna unt
 
 ## 2. Permasalahan
 
-Ketika kita membuat sebuah statement didalam method `update()`, maka statement tersebut akan dijalankan dengan satuan FPS (Frame per second). Artinya, dalam satu detik komputer kita akan menjalankan method update lebih dari satu kali tergantung kecepatan FPS
+Ketika kita membuat sebuah statement didalam method `update()`, maka statement tersebut akan dijalankan dengan satuan FPS \(Frame per second\). Artinya, dalam satu detik komputer kita akan menjalankan method update lebih dari satu kali tergantung kecepatan FPS
 
 Misalnya kita akan memindahkan game object dengan menggunakan `transform.Translate` :
 
-```
+```text
 void Update() {
   this.transform.Translate(5, 0, 0);
 }
@@ -30,9 +30,9 @@ Artinya dalam 1 detik bisa menjalankan method update sebanyak 30 kali, sehingga 
 
 ## 3. Solusi
 
-Kita bisa menggunakan delta time agar statement `transform.Translate` memindahkan game object sebanyak 5 langkah per detik (bukan per frame), sehingga script sebelumnya akan berubah menjadi seperti berikut :
+Kita bisa menggunakan delta time agar statement `transform.Translate` memindahkan game object sebanyak 5 langkah per detik \(bukan per frame\), sehingga script sebelumnya akan berubah menjadi seperti berikut :
 
-```
+```text
 void Update() {
   transform.Translate(5 * Time.deltaTime, 0, 0);
 }
@@ -42,5 +42,5 @@ Kita tinggal mengalikan kecepatan translate dengan `Time.deltaTime` sehingga gam
 
 ## 4. Referensi
 
-Untuk lebih jelasnya, silahkan lihat tutorial dibawah ini :
-https://unity3d.com/learn/tutorials/topics/scripting/delta-time
+Untuk lebih jelasnya, silahkan lihat tutorial dibawah ini : [https://unity3d.com/learn/tutorials/topics/scripting/delta-time](https://unity3d.com/learn/tutorials/topics/scripting/delta-time)
+

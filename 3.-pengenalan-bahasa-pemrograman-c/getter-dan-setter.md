@@ -37,6 +37,7 @@ namespace AdventureGame
 
 ## 2. Kenapa Butuh Getter dan Setter
 
-Terkadang kita perlu membatasi akses dari suatu attribute, misalnya, hanya bisa dibaca saja (get) atau diubah saja (set)
+Terkadang kita perlu membatasi akses dari suatu attribute, misalnya, hanya bisa dibaca saja \(get\) atau diubah saja \(set\)
 
 Sebagai contoh, attribute `health` seharusnya hanya bisa di ubah nilainya menggunakan method `healing`, dan tidak bisa diubah secara langsung
+

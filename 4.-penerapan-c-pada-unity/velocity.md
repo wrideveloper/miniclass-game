@@ -1,6 +1,6 @@
 # Velocity
 
-![Velocity](velocity.jpeg)
+![Velocity](../.gitbook/assets/velocity.jpeg)
 
 ## 1. Penjelasan Velocity
 
@@ -10,7 +10,7 @@
 
 Velocity bisa ditentukan nilainya dengan cara berikut :
 
-```cSharp
+```csharp
 // mengambil component rigid body dari game object
 Rigidbody2D myRigidBody = GetComponent<Rigidbody2D> ();
 
@@ -24,24 +24,25 @@ dengan menerapkan script diatas pada suatu objek maka objek tersebut akan berger
 
 Dengan memanfaatkan velocity, kita bisa mengontrol suatu game objek
 
-```cSharp
+```csharp
 public class PlayerMove : MonoBehaviour {
 
-	private Rigidbody2D myRigidBody;
-	public float speed = 10;
+    private Rigidbody2D myRigidBody;
+    public float speed = 10;
 
-	void Start () {
-		// mengambil component rigid body dari game object
-		myRigidBody = GetComponent<Rigidbody2D> ();
-	}
+    void Start () {
+        // mengambil component rigid body dari game object
+        myRigidBody = GetComponent<Rigidbody2D> ();
+    }
 
-	void Update () {
-		// mendapatkan nilai axis
-		float horizontal = Input.GetAxis ("Horizontal");
-		float vertical = Input.GetAxis ("Vertical");
+    void Update () {
+        // mendapatkan nilai axis
+        float horizontal = Input.GetAxis ("Horizontal");
+        float vertical = Input.GetAxis ("Vertical");
 
-		// mengubah velocity
-		myRigidBody.velocity = new Vector2 (horizontal * speed, vertical * speed);
-	}
+        // mengubah velocity
+        myRigidBody.velocity = new Vector2 (horizontal * speed, vertical * speed);
+    }
 }
 ```
+

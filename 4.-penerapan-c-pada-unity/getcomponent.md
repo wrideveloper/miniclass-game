@@ -1,6 +1,6 @@
 # GetComponent
 
-![getcomponent](getcomponent.png)
+![getcomponent](../.gitbook/assets/getcomponent.png)
 
 ## 1. Penjelasan GetComponent
 
@@ -15,3 +15,4 @@ void Start() {
   myRigidbody.gravityScale = 0;
 }
 ```
+

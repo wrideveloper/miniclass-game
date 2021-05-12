@@ -15,3 +15,4 @@ Rigid body merupakan component yang dapat memberikan kemampuan fisik kepada game
 ### 1.3 Collider 2D
 
 Collider merupakan component yang membuat satu game object dengan lain dapat saling bertabrakan
+
