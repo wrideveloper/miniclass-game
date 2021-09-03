@@ -1,0 +1,2 @@
+# Mengoleksi Objek
+

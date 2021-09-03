@@ -25,39 +25,47 @@
 * [Getter dan Setter](3.-pengenalan-bahasa-pemrograman-c/getter-dan-setter.md)
 * [Object Attribute](3.-pengenalan-bahasa-pemrograman-c/object-attribute.md)
 
-## 4.  Penerapan C\# Pada Unity
+## 4. MINI PROJECT 1 \(Collect Object\) <a id="4.-miniproject"></a>
 
-* [Transform](4.-penerapan-c-pada-unity/transform.md)
-* [Delta Time](4.-penerapan-c-pada-unity/delta-time.md)
-* [Input](4.-penerapan-c-pada-unity/input.md)
-* [GetComponent](4.-penerapan-c-pada-unity/getcomponent.md)
-* [Velocity](4.-penerapan-c-pada-unity/velocity.md)
-* [Add Force](4.-penerapan-c-pada-unity/addforce.md)
-* [Collider Trigger](4.-penerapan-c-pada-unity/collider-trigger.md)
-* [Membuat Game 2D Sederhana](4.-penerapan-c-pada-unity/membuat-game-2d-sederhana.md)
+* [Overview](4.-miniproject/overview.md)
+* [Player Movement](4.-miniproject/player-movement.md)
+* [Mengoleksi Objek](4.-miniproject/mengoleksi-objek.md)
+* [Scoring System](4.-miniproject/scoring-system.md)
+* [Scene Management](4.-miniproject/scene-management.md)
 
-## 5.  Teknik Pembuatan Game
+## 5.  Penerapan C\# Pada Unity
+
+* [Transform](5.-penerapan-c-pada-unity/transform.md)
+* [Delta Time](5.-penerapan-c-pada-unity/delta-time.md)
+* [Input](5.-penerapan-c-pada-unity/input.md)
+* [GetComponent](5.-penerapan-c-pada-unity/getcomponent.md)
+* [Velocity](5.-penerapan-c-pada-unity/velocity.md)
+* [Add Force](5.-penerapan-c-pada-unity/addforce.md)
+* [Collider Trigger](5.-penerapan-c-pada-unity/collider-trigger.md)
+* [Membuat Game 2D Sederhana](5.-penerapan-c-pada-unity/membuat-game-2d-sederhana.md)
+
+## 6.  Teknik Pembuatan Game
 
 * [Inventory System](https://unity3d.com/learn/tutorials/projects/2d-game-kit/inventory-system)
 * [Jump Through Platform](https://www.youtube.com/watch?v=acFYSKle6wY)
 * [Moving Platform](https://www.youtube.com/watch?v=O6wlIqe2lTA)
 * [Spawning Object](https://www.youtube.com/watch?v=tz2fRF2GnqY)
 * [Infinite Scrolling](https://www.youtube.com/watch?v=IgZQjGyB9zg)
-* [Membuat Game 2D dengan Teknik Pembuatan Game](5.-teknik-pembuatan-game/membuat-game-2d-dengan-teknik-pembuatan-game.md)
+* [Membuat Game 2D dengan Teknik Pembuatan Game](6.-teknik-pembuatan-game/membuat-game-2d-dengan-teknik-pembuatan-game.md)
 
-## 6.  Efek Pada Unity
+## 7.  Efek Pada Unity
 
-* [Animation](6.-efek-pada-unity/animation.md)
-* [Audio](6.-efek-pada-unity/audio.md)
-* [Lighting](6.-efek-pada-unity/lighting.md)
+* [Animation](7.-efek-pada-unity/animation.md)
+* [Audio](7.-efek-pada-unity/audio.md)
+* [Lighting](7.-efek-pada-unity/lighting.md)
 
-## 7.  User Interface
+## 8.  User Interface
 
-* [User Interface](7.-user-interface/user-interface.md)
-* [Membuat Game 2D dengan Efek dan Menu](7.-user-interface/membuat-game-2d-dengan-efek-dan-menu.md)
+* [User Interface](8.-user-interface/user-interface.md)
+* [Membuat Game 2D dengan Efek dan Menu](8.-user-interface/membuat-game-2d-dengan-efek-dan-menu.md)
 
-## 8.  Penyimpanan Eksternal
+## 9.  Penyimpanan Eksternal
 
-* [Binary File](8.-penyimpanan-eksternal/binary-file.md)
-* [SQLite](8.-penyimpanan-eksternal/sqlite.md)
+* [Binary File](9.-penyimpanan-eksternal/binary-file.md)
+* [SQLite](9.-penyimpanan-eksternal/sqlite.md)
 

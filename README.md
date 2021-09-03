@@ -21,13 +21,13 @@ Roadmap untuk miniclass game WRI
    * :books: [Getter dan Setter](3.-pengenalan-bahasa-pemrograman-c/getter-dan-setter.md)
    * :books: Object Attribute
 4. **Penerapan C\# Pada Unity**
-   * :books: [Transform](4.-penerapan-c-pada-unity/transform.md)
-   * :books: [Delta Time](4.-penerapan-c-pada-unity/delta-time.md)
-   * :books: [Input](4.-penerapan-c-pada-unity/input.md)
-   * :books: [GetComponent](4.-penerapan-c-pada-unity/getcomponent.md)
-   * :books: [Velocity](4.-penerapan-c-pada-unity/velocity.md)
-   * :books: [Add Force](4.-penerapan-c-pada-unity/addforce.md)
-   * :books: [Collider Trigger](4.-penerapan-c-pada-unity/collider-trigger.md)
+   * :books: [Transform](5.-penerapan-c-pada-unity/transform.md)
+   * :books: [Delta Time](5.-penerapan-c-pada-unity/delta-time.md)
+   * :books: [Input](5.-penerapan-c-pada-unity/input.md)
+   * :books: [GetComponent](5.-penerapan-c-pada-unity/getcomponent.md)
+   * :books: [Velocity](5.-penerapan-c-pada-unity/velocity.md)
+   * :books: [Add Force](5.-penerapan-c-pada-unity/addforce.md)
+   * :books: [Collider Trigger](5.-penerapan-c-pada-unity/collider-trigger.md)
    * :computer: Membuat Game 2D Sederhana
 5. **Teknik Pembuatan Game**
    * :books: [Inventory System](https://unity3d.com/learn/tutorials/projects/2d-game-kit/inventory-system)
@@ -37,11 +37,11 @@ Roadmap untuk miniclass game WRI
    * :books: [Infinite Scrolling](https://www.youtube.com/watch?v=IgZQjGyB9zg)
    * :computer: Membuat Game 2D dengan Teknik Pembuatan Game
 6. **Efek Pada Unity**
-   * :books: [Animation](6.-efek-pada-unity/animation.md)
+   * :books: [Animation](7.-efek-pada-unity/animation.md)
    * :books: Audio
    * :books: Lighting
 7. **User Interface**
-   * :books: [User Interface](7.-user-interface/user-interface.md)
+   * :books: [User Interface](8.-user-interface/user-interface.md)
    * :computer: Membuat Game 2D dengan Efek dan Menu
 8. **Penyimpanan Eksternal**
    * :books: Binary File
